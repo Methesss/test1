@@ -30,5 +30,4 @@ function displayStatus(message: any){
 console.log(message)
 }
 
-
-
+document.getElementById('ready')!.addEventListener("click", function()
